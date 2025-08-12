@@ -8,3 +8,6 @@ Below are the UI-based shopping cart testing steps.
 3. Click "Calculate Total".
 4. Capture displayed total.
 5. Assert it matches expected value.
+6. Below dependency added in pom.xml file
+   1. selenium-java
+   2. testng
